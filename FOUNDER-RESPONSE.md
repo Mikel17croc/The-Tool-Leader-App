@@ -33,3 +33,6 @@ Build wishlist functionality and notification features.
 Implement real-time updates once a backend is available.
 Explore referral and growth features after achieving real user activity.
 Continue refining the design to achieve the premium, polished experience you described—focusing on quality and trust rather than copying every feature from Airbnb.
+
+Loom Video Link:
+https://www.loom.com/share/87635dfc3af4496ebcaf9e26d65a8faa

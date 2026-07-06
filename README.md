@@ -31,3 +31,6 @@ Type-check anytime with `npm run typecheck` (strict mode, no `any`).
 
 Templates for the three markdown deliverables are in this repo as
 `FOUNDER-RESPONSE.md`, `DECISION-LOG.md`, and `AI-USAGE.md` — fill them in.
+
+## Live URL
+https://lend-a-tool.netlify.app/
